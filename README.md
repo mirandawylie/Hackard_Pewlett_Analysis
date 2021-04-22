@@ -9,6 +9,7 @@ The number of retiring employees by title are as follows:
 
 The employees eligible for the mentorship program are listed as follows:
 ![mentorship_eligibility.png](Images/mentorship_eligibility.png)
+Complete list here: Data/mentorship_eligibilty.csv
 
 ## Summary
 The number of retiring employees are 90,398 and the number employees eligible for mentorship are 1,549. So while the mentorship program is a good option for recruitment, Hackard Pewlett will need to find more solutions for the impending "silver tsunami."
